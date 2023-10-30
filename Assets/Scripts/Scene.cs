@@ -15,6 +15,7 @@ public class Secen : MonoBehaviour
             SceneManager.LoadScene(SceneName);
         });
     }
+    
 
     // Update is called once per frame
     void Update()
